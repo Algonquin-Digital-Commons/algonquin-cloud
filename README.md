@@ -13,12 +13,12 @@ secrets, storage, service discovery, and observability. It must not import domai
 logic from the product systems. Product integrations cross versioned contracts
 and continue in a documented degraded mode when optional adapters are absent.
 
-- [Consolidated ecosystem architecture](../psdc-architecture/docs/architecture/Consolidated-Ecosystem-Architecture.md)
-- [Dependency contract](../psdc-architecture/docs/architecture/Ecosystem-Dependency-Contract.md)
-- [Open-source-only policy](../psdc-architecture/docs/vision/11-Open-Source-Only-Policy.md)
-- [Human choices register](../psdc-architecture/docs/governance/Human-Choices-and-Decisions-Register.md)
-- [Full technology stack](../psdc-architecture/docs/vision/14-Full-Technology-Stack-and-Open-Source-Alternatives.md)
-- [Commons architecture](../psdc-architecture/docs/vision/constitutional/Post-Secondary-Digital-Commons-Architecture.md)
+- [Consolidated ecosystem architecture](../algonquin-architecture/docs/architecture/Consolidated-Ecosystem-Architecture.md)
+- [Dependency contract](../algonquin-architecture/docs/architecture/Ecosystem-Dependency-Contract.md)
+- [Open-source-only policy](../algonquin-architecture/docs/vision/11-Open-Source-Only-Policy.md)
+- [Human choices register](../algonquin-architecture/docs/governance/Human-Choices-and-Decisions-Register.md)
+- [Full technology stack](../algonquin-architecture/docs/vision/14-Full-Technology-Stack-and-Open-Source-Alternatives.md)
+- [Commons architecture](../algonquin-architecture/docs/vision/constitutional/Post-Secondary-Digital-Commons-Architecture.md)
 
 ## Layout
 
