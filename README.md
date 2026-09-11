@@ -1,7 +1,7 @@
 # Commons Cloud Fabric
 
-Shared platform control plane for the tenant-neutral Post-Secondary Digital
-Commons. Commons Cloud Fabric
+Algonquin's institution-owned cloud control plane, based on the neutral
+Post-Secondary Digital Commons cloud repository. Commons Cloud Fabric
 provides normalized identity, service discovery, policy distribution, storage,
 messaging, secrets integration, observability, and cross-system events. It does
 not own AI, compute, media, or social-domain behavior.
